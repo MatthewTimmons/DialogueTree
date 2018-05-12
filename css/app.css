@@ -9,3 +9,7 @@ p:hover {
 .endstate {
 	background-color: lightred;
 }
+
+#dialogue {
+	background-color: yellow;
+}
