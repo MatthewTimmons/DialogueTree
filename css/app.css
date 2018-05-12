@@ -1,7 +1,11 @@
 p {
-	background-color: gray;
+	background-color: lightgreen;
 }
 
 p:hover {
 	background-color: lightblue;
+}
+
+.endstate {
+	background-color: lightred;
 }
